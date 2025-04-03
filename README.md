@@ -1,14 +1,14 @@
-Overview
+**Overview**
 This repository contains the source code for Stella Murithi's personal portfolio website. The website showcases Stella's skills, projects, professional experience, and contact information. It's designed to be responsive, visually appealing, and user-friendly.
 
-Features
+**Features**
 Responsive Design: Works on all device sizes from mobile to desktop
 
 Modern UI: Clean, professional design with smooth animations
 
 Interactive Elements: Hover effects, animated buttons, and transitions
 
-Sections:
+**Sections:**
 
 About Me
 
@@ -24,14 +24,14 @@ Contact Form
 
 Call-to-Action
 
-Technologies Used
-Frontend:
+**Technologies Used**
+
 
 HTML5
 
 CSS
 
-Libraries:
+**Libraries:**
 
 Boxicons (for icons)
 
@@ -39,7 +39,7 @@ Font Awesome (for icons)
 
 Google Fonts (Poppins)
 
-Key Design Elements
+**Key Design Elements**
 Gradient color scheme with primary (#5e63b6) and accent (#f07a8d) colors
 
 Card-based layout for skills and projects
@@ -52,7 +52,7 @@ Interactive contact form
 
 Responsive navigation menu for mobile devices
 
-File Structure
+**File Structure**
 
 portfolio/
 ├── index.html          # Main HTML file
@@ -63,13 +63,13 @@ portfolio/
 └── My CV.pdf           # Resume/CV 
 
 
-Browser Support
+**Browser Support**
 The portfolio is designed to work in all modern browsers
 
-License
+**License**
 This project is open source and available for personal use. 
 
-Contact
+**Contact**
 For any questions or suggestion reach me on:
 
 Email: kathuremurithi20@gmail.com
