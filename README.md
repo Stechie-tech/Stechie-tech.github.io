@@ -29,7 +29,7 @@ Frontend:
 
 HTML5
 
-CSS3 (with CSS variables for theming)
+CSS
 
 Libraries:
 
@@ -53,32 +53,24 @@ Interactive contact form
 Responsive navigation menu for mobile devices
 
 File Structure
-C
+
 portfolio/
 ├── index.html          # Main HTML file
 ├── styles.css          # Main CSS stylesheet
 ├── stella.png          # Profile image
 ├── Personal finances.jpg # Project image
 ├── chatbot.webp        # Project image
-└── My CV.pdf           # Resume/CV (not included in repo)
+└── My CV.pdf           # Resume/CV 
 
 
 Browser Support
-The portfolio is designed to work in all modern browsers including:
-
-Chrome
-
-Firefox
-
-Safari
-
-Edge
+The portfolio is designed to work in all modern browsers
 
 License
-This project is open source and available for personal use. Please credit the original author if you use significant portions of the code.
+This project is open source and available for personal use. 
 
 Contact
-For any questions or suggestions, please contact Stella Murithi at:
+For any questions or suggestion reach me on:
 
 Email: kathuremurithi20@gmail.com
 
