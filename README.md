@@ -1,5 +1,9 @@
 **Overview**
-This repository contains the source code for Stella Murithi's personal portfolio website. The website showcases Stella's skills, projects, professional experience, and contact information. It's designed to be responsive, visually appealing, and user-friendly.
+This repository contains the source code for Stella Murithi's personal portfolio website. 
+
+https://stechie-tech.github.io/
+
+The website showcases Stella's skills, projects, professional experience, and contact information. It's designed to be responsive, visually appealing, and user-friendly.
 
 **Features**
 Responsive Design: Works on all device sizes from mobile to desktop
